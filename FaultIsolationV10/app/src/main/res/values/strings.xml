@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaultIsolationV1.0</string>
+    <string name="App_info">This is a ap for sound detection</string>
+    <string name="choose_format">Select the format from </string>
+    <string name="start_recording">Start recording</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="audio_format">Format</string>
+</resources>

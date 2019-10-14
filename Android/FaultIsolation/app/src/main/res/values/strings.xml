@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FaultIsolation</string>
+<string-array name="dept">
+    <item>select</item>
+    <item>department A</item>
+    <item>department B</item>
+    <item>department C</item>
+    <item>department D</item>
+</string-array>
+</resources>

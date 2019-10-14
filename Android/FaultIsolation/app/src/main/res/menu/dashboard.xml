@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/settingsmall"
+        app:showAsAction="ifRoom" >
+
+        <menu >
+            <item
+                android:id="@+id/comid"
+                android:title="Complaint"/>
+
+            <item
+                android:id="@+id/fid"
+                android:title="feedback"/>
+
+            <item
+                android:id="@+id/logid"
+                android:title="Logout"/>
+
+
+        </menu>
+
+</item>
+</menu>
